@@ -8,6 +8,7 @@ Esta wiki creada para la clase de automatización 2022-1 será utilizada para ex
 Usando los conocimientos adquiridos en la clase, la primera consideración son los elementos del sistema, el sistema consiste esencialmente de 3 motores y 3 válvulas, se planea el uso de leds y una placa ARDUINO MEGA para la elaboración del elemento práctico propuesto. 
 
 #### Diseño preliminar
+[Esquematico](https://cdn.discordapp.com/attachments/786050339643195447/961673731774775346/unknown.png)
 Se planea la creación de un sistema simple utilizando una placa Arduino como controlador principal y luces led para simular los actuadores hipotéticos a utilizar, además se usa otro juego de luces para simbolizar los estados de ejecución. 
 
 ## Desarrollo
@@ -52,5 +53,6 @@ Diagrama de secuencia y tabla de variables
 Disponible en: https://www.openplcproject.com/runtime/windows/
 - "Codigo de Codesys", apuntes de clase de INFORM 275902, Facultad de ingeniería,
 Universidad de la Sabana, Abril, 2022.
+- "Tutorial CODESYS" [ Internet ], Disponible en : https://www.youtube.com/watch?v=g_muZ9uXcMo
 
 
