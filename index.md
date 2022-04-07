@@ -56,3 +56,9 @@ Universidad de la Sabana, Abril, 2022.
 - "Tutorial CODESYS" [ Internet ], Disponible en : https://www.youtube.com/watch?v=g_muZ9uXcMo
 
 
+##### Documento Realizado por:
+##### Juan Diego Cortes Fernandez
+##### Angie Liseth Gil Luque 
+##### Johan Daniel Gacha
+
+
