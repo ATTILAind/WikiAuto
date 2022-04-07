@@ -15,6 +15,7 @@ Se planea la creación de un sistema simple utilizando una placa Arduino como co
 El diseño del prototipo se realiza en la plataforma CODESYS, la cual nos facilita una visión hipotética del sistema a través de la creación de animaciones simples que están vinculadas a una lógica de diseño Ladder que se usara mas adelante en el propio dispositivo PLC, pro lo tanto CODESYS nos permite tener un entorno en el que podemos organizar y crear un sistema sin la necesidad de saltar directamente a la implementación física, esto a su vez ayuda a la mitigación de errores futuros.
 
 #### Uso de OpenPLC
+![Runtime](https://cdn.discordapp.com/attachments/786050339643195447/961484586787962930/unknown.png)
 La plataforma OpenPLC nos permite la implementación de la lógica Ladder generada previamente, en primer lugar, se usara como dispositivo maestro un computador portátil con el sistema operativo Windows y el dispositivo esclavo será una placa de desarrollo Arduino MEGA, esta configuración se usa debido a su flexibilidad y accesibilidad económica. Primero se configura el run time en el dispositivo maestro para que genere el Host necesario en el que se pueda añadir el dispositivo esclavo a utilizar, una vez hecho esto se puede empezar a trabajar en la lógica Ladder en el editor de OpenPLC, se realizan ajustes menores a la lógica original y se añaden las conexiones a los pines correspondientes.
 
 ## Implementación 
