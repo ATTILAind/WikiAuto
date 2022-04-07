@@ -48,4 +48,9 @@ Diagrama de secuencia y tabla de variables
 
 
 ## Referencias
+-“OPENPLC ON WINDOWS” [ Internet ]
+Disponible en: https://www.openplcproject.com/runtime/windows/
+-"Codigo de Codesys", apuntes de clase de INFORM 275902, Facultad de ingeniería,
+Universidad de la Sabana, Abril, 2022.
+
 
