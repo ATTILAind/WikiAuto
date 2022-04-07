@@ -28,14 +28,24 @@ La plataforma OpenPLC nos permite la implementación de la lógica Ladder genera
 Como se mencionó anteriormente se utilizarán luces LED para simular los elementos del sistema y también para permitir retroalimentación referente a los estados del sistema, además se usara una placa Arduino MEGA, claves jumper y un protoboard para facilitar las conexiones de manera rápida.
 
 #### Prototipado 
+Para el prototipad final se realizo un montaje como el que se ve a continuación:
+![Plano A](https://raw.githubusercontent.com/ATTILAind/WikiAuto/gh-pages/Plan%20B.jpg)
+![Plano B](https://raw.githubusercontent.com/ATTILAind/WikiAuto/gh-pages/Plano%20A.jpg)
+![Otra](https://raw.githubusercontent.com/ATTILAind/WikiAuto/gh-pages/OtraARD.jpeg)
+
+Y de esta manera se consiguió el resultado final 
+![Prototipo](https://raw.githubusercontent.com/ATTILAind/WikiAuto/gh-pages/Proto%20final.jpeg)
+El prototipo usa leds para representar elementos mecánicos del sistema hipotético e imita el esquema general sugerido en el documento original 
+
 
 #### Diagramas relevantes
-Diagramas relevantes 
+Diagrama de secuencia y tabla de variables 
+[Diagrama de secuencia en PDF](https://viewscreen.githubusercontent.com/view/pdf?browser=firefox&color_mode=auto&commit=b4d3d911a7f460bddd34b58f31cf40fe955df23f&device=unknown_device&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f415454494c41696e642f57696b694175746f2f623464336439313161376634363062646464333462353866333163663430666539353564663233662f6469616772616d615f64655f73656375656e6369612e706466&logged_in=true&nwo=ATTILAind%2FWikiAuto&path=diagrama_de_secuencia.pdf&platform=windows&repository_id=478793554&repository_type=Repository&version=98#fa6d76c1-864b-43f6-8ed8-6b4d19684f6c)
 
 ![Diagrama de proceso](https://cdn.discordapp.com/attachments/786050339643195447/961505999473242142/diagrama_secuencia.png)
 
 ![Tabla de variables](https://cdn.discordapp.com/attachments/786050339643195447/961484131357818930/tabla_1.png)
 
-![Tabla de variables](https://cdn.discordapp.com/attachments/786050339643195447/961484131357818930/tabla_1.png)
 
 ## Referencias
+
